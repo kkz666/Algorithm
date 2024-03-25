@@ -1,0 +1,2 @@
+# Algorithm
+java algorithm template
